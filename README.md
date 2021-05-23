@@ -1,2 +1,1 @@
-# ChngBg_AddScore
-Using JSON and API calls in AngryBirds Game. Changing the background according to the time and displaying the score...
+# AngryBirdsStage7
